@@ -31,6 +31,12 @@
 	  <Reference Include="ProcessAutomation">
 	    <HintPath>..\..\..\..\..\..\Skyline DataMiner\ProtocolScripts\ProcessAutomation.dll</HintPath>
 	  </Reference>
+	  <Reference Include="SLCodeLibrary">
+	    <HintPath>..\Dlls\SLCodeLibrary.dll</HintPath>
+	  </Reference>
+	  <Reference Include="SLSRMLibrary">
+	    <HintPath>..\Dlls\SLSRMLibrary.dll</HintPath>
+	  </Reference>
 	</ItemGroup>
 	<ProjectExtensions>
 	    <VisualStudio>

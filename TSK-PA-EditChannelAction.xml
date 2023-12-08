@@ -20,7 +20,7 @@
 	</Parameters>
 
 	<Script>
-		<Exe id="1" type="csharp">
+		<Exe id="2" type="csharp">
 			<Value><![CDATA[[Project:TSK-PA-EditChannelAction_1]]]></Value>
 			<Param type="ref">Newtonsoft.Json.dll</Param>
 			<Param type="ref">SLSRMLibrary.dll</Param>

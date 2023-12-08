@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JoshuaWO\\source\\repos\\TSK-AS-EditChannelAction\\TSK-AS-EditChannelAction_1\\TSK-AS-EditChannelAction_1.csproj": {}
+    "C:\\Users\\JoshuaWO\\source\\repos\\TSK-PA-EditChannelAction\\TSK-PA-EditChannelAction_1\\TSK-PA-EditChannelAction_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JoshuaWO\\source\\repos\\TSK-AS-EditChannelAction\\TSK-AS-EditChannelAction_1\\TSK-AS-EditChannelAction_1.csproj": {
+    "C:\\Users\\JoshuaWO\\source\\repos\\TSK-PA-EditChannelAction\\TSK-PA-EditChannelAction_1\\TSK-PA-EditChannelAction_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JoshuaWO\\source\\repos\\TSK-AS-EditChannelAction\\TSK-AS-EditChannelAction_1\\TSK-AS-EditChannelAction_1.csproj",
-        "projectName": "TSK-AS-EditChannelAction_1",
-        "projectPath": "C:\\Users\\JoshuaWO\\source\\repos\\TSK-AS-EditChannelAction\\TSK-AS-EditChannelAction_1\\TSK-AS-EditChannelAction_1.csproj",
+        "projectUniqueName": "C:\\Users\\JoshuaWO\\source\\repos\\TSK-PA-EditChannelAction\\TSK-PA-EditChannelAction_1\\TSK-PA-EditChannelAction_1.csproj",
+        "projectName": "TSK-PA-EditChannelAction_1",
+        "projectPath": "C:\\Users\\JoshuaWO\\source\\repos\\TSK-PA-EditChannelAction\\TSK-PA-EditChannelAction_1\\TSK-PA-EditChannelAction_1.csproj",
         "packagesPath": "C:\\Users\\JoshuaWO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JoshuaWO\\source\\repos\\TSK-AS-EditChannelAction\\TSK-AS-EditChannelAction_1\\obj\\",
+        "outputPath": "C:\\Users\\JoshuaWO\\source\\repos\\TSK-PA-EditChannelAction\\TSK-PA-EditChannelAction_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JoshuaWO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,13 +41,9 @@
         "net462": {
           "targetAlias": "net462",
           "dependencies": {
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.3, )"
-            },
             "Skyline.DataMiner.Dev.Automation": {
               "target": "Package",
-              "version": "[10.3.12.2, )"
+              "version": "[10.1.0.6, )"
             },
             "StyleCop.Analyzers": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",

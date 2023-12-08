@@ -45,21 +45,20 @@ Revision History:
 
 DATE		VERSION		AUTHOR			COMMENTS
 
-08/12/2023	1.0.0.1		JWO, Skyline	Initial version
+08/12/2023	1.0.0.1		XXX, Skyline	Initial version
 ****************************************************************************
 */
 
 namespace TSK_PA_EditChannelAction_1
 {
-	using System;
-	using System.Collections.Generic;
-    using System.Globalization;
+    using System;
+    using System.Collections.Generic;
     using System.Linq;
-    using System.Text;
-	using Skyline.DataMiner.Automation;
+    using Newtonsoft.Json;
+    using Skyline.DataMiner.Automation;
+    using Skyline.DataMiner.Library.Solutions.SRM;
     using Skyline.DataMiner.Net.Apps.DataMinerObjectModel;
     using Skyline.DataMiner.Net.Apps.DataMinerObjectModel.Actions;
-    using Skyline.DataMiner.Net.LogHelpers;
     using Skyline.DataMiner.Net.History;
     using Skyline.DataMiner.Net.Messages;
     using Skyline.DataMiner.Net.Messages.SLDataGateway;

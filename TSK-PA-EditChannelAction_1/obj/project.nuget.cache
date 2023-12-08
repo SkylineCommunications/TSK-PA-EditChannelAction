@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GCvkYsUJ9VS9Vw/6FqYnf35izHZpBCeRDRFbCTriHGM2DweQ5YjBFSa9ozkVuvrlIWgtAWZat7VRrjFxeKvl6g==",
+  "dgSpecHash": "qmUaRkxMjlxSHBKwJfIv57a4un8xysMg5ZXB7gcFEPciZ7A6Qad/JlcJU6sxdbQ2Gv3Imj7AvJ1uIkV8MovZ7w==",
   "success": true,
   "projectFilePath": "C:\\Users\\JoshuaWO\\source\\repos\\TSK-PA-EditChannelAction\\TSK-PA-EditChannelAction_1\\TSK-PA-EditChannelAction_1.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\JoshuaWO\\.nuget\\packages\\microsoft.netcore.portable.compatibility\\1.0.1\\microsoft.netcore.portable.compatibility.1.0.1.nupkg.sha512",
     "C:\\Users\\JoshuaWO\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\JoshuaWO\\.nuget\\packages\\sharpziplib\\0.86.0\\sharpziplib.0.86.0.nupkg.sha512",
     "C:\\Users\\JoshuaWO\\.nuget\\packages\\skyline.dataminer.dev.automation\\10.1.0.6\\skyline.dataminer.dev.automation.10.1.0.6.nupkg.sha512",

@@ -22,11 +22,11 @@
 	<Script>
 		<Exe id="1" type="csharp">
 			<Value><![CDATA[[Project:TSK-PA-EditChannelAction_1]]]></Value>
-			<Param type="ref">C:\Skyline DataMiner\Files\Newtonsoft.Json.dll</Param>
-			<Param type="ref">C:\Skyline DataMiner\Files\SLSRMLibrary.dll</Param>
+			<Param type="ref">Newtonsoft.Json.dll</Param>
+			<Param type="ref">SLSRMLibrary.dll</Param>
 			<Param type="ref">mscorlib.dll</Param>
-			<Param type="ref">C:\Skyline DataMiner\ProtocolScripts\ProcessAutomation.dll</Param>
-			<Param type="ref">C:\Skyline DataMiner\Files\SLCodeLibrary.dll</Param>
+			<Param type="ref">ProcessAutomation.dll</Param>
+			<Param type="ref">SLCodeLibrary.dll</Param>
 			<Message></Message>
 		</Exe>
 	</Script>

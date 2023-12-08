@@ -41,6 +41,10 @@
         "net462": {
           "targetAlias": "net462",
           "dependencies": {
+            "Microsoft.NETCore.Portable.Compatibility": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
             "Skyline.DataMiner.Dev.Automation": {
               "target": "Package",
               "version": "[10.1.0.6, )"

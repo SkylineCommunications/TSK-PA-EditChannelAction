@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DMSScript options="272" xmlns="http://www.skyline.be/automation">
+	<Name>TSK-AS-EditChannelAction</Name>
+	<Description></Description>
+	<Type>Automation</Type>
+	<Author>SKYLINE2\JWO</Author>
+	<CheckSets>FALSE</CheckSets>
+	<Folder></Folder>
+
+	<Protocols>
+	</Protocols>
+
+	<Memory>
+	</Memory>
+
+	<Parameters>
+		<ScriptParameter id="1" type="string" values="">
+			<Description>guids</Description>
+		</ScriptParameter>
+	</Parameters>
+
+	<Script>
+		<Exe id="1" type="csharp">
+			<Value><![CDATA[[Project:TSK-AS-EditChannelAction_1]]]></Value>
+			<Param type="ref">C:\Skyline DataMiner\Files\Newtonsoft.Json.dll</Param>
+			<Param type="ref">C:\Skyline DataMiner\Files\SLSRMLibrary.dll</Param>
+			<Param type="ref">mscorlib.dll</Param>
+			<Param type="ref">C:\Skyline DataMiner\ProtocolScripts\ProcessAutomation.dll</Param>
+			<Param type="ref">C:\Skyline DataMiner\Files\SLCodeLibrary.dll</Param>
+			<Message></Message>
+		</Exe>
+	</Script>
+</DMSScript>

@@ -1,8 +1,3 @@
-C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\obj\Debug\net462\TSK-PA-EditChannelAction_1.csproj.AssemblyReference.cache
-C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\obj\Debug\net462\TSK-PA-EditChannelAction_1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\obj\Debug\net462\TSK-PA-EditChannelAction_1.AssemblyInfoInputs.cache
-C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\obj\Debug\net462\TSK-PA-EditChannelAction_1.AssemblyInfo.cs
-C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\obj\Debug\net462\TSK-PA-EditChannelAction_1.csproj.CoreCompileInputs.cache
 C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\bin\Debug\net462\TSK-PA-EditChannelAction_1.dll
 C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\bin\Debug\net462\TSK-PA-EditChannelAction_1.pdb
 C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\bin\Debug\net462\TSK-PA-EditChannelAction_1.xml
@@ -115,7 +110,11 @@ C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction
 C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\bin\Debug\net462\SLCodeLibrary.dll
 C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\bin\Debug\net462\SLSRMLibrary.dll
 C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\bin\Debug\net462\ProcessAutomation.xml
-C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\bin\Debug\net462\SLSRMLibrary.xml
+C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\obj\Debug\net462\TSK-PA-EditChannelAction_1.csproj.AssemblyReference.cache
+C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\obj\Debug\net462\TSK-PA-EditChannelAction_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\obj\Debug\net462\TSK-PA-EditChannelAction_1.AssemblyInfoInputs.cache
+C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\obj\Debug\net462\TSK-PA-EditChannelAction_1.AssemblyInfo.cs
+C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\obj\Debug\net462\TSK-PA-EditChannelAction_1.csproj.CoreCompileInputs.cache
 C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\obj\Debug\net462\TSK-PA-EditChannelAction_1.csproj.CopyComplete
 C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\obj\Debug\net462\TSK-PA-EditChannelAction_1.dll
 C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\obj\Debug\net462\TSK-PA-EditChannelAction_1.xml

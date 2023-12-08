@@ -22,11 +22,11 @@
 	<Script>
 		<Exe id="2" type="csharp">
 			<Value><![CDATA[[Project:TSK-PA-EditChannelAction_1]]]></Value>
-			<Param type="ref">Newtonsoft.Json.dll</Param>
-			<Param type="ref">SLSRMLibrary.dll</Param>
+			<Param type="ref">Dlls/Newtonsoft.Json.dll</Param>
+			<Param type="ref">Dlls/SLSRMLibrary.dll</Param>
 			<Param type="ref">mscorlib.dll</Param>
-			<Param type="ref">ProcessAutomation.dll</Param>
-			<Param type="ref">SLCodeLibrary.dll</Param>
+			<Param type="ref">Dlls/ProcessAutomation.dll</Param>
+			<Param type="ref">Dlls/SLCodeLibrary.dll</Param>
 			<Message></Message>
 		</Exe>
 	</Script>

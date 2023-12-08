@@ -1,1 +1,1 @@
-# TSK-AS-EditChannelAction
+# TSK-PA-EditChannelAction

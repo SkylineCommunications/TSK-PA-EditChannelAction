@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <DMSScript options="272" xmlns="http://www.skyline.be/automation">
-	<Name>TSK-AS-EditChannelAction</Name>
+	<Name>TSK-PA-EditChannelAction</Name>
 	<Description></Description>
 	<Type>Automation</Type>
 	<Author>SKYLINE2\JWO</Author>
@@ -21,7 +21,7 @@
 
 	<Script>
 		<Exe id="1" type="csharp">
-			<Value><![CDATA[[Project:TSK-AS-EditChannelAction_1]]]></Value>
+			<Value><![CDATA[[Project:TSK-PA-EditChannelAction_1]]]></Value>
 			<Param type="ref">C:\Skyline DataMiner\Files\Newtonsoft.Json.dll</Param>
 			<Param type="ref">C:\Skyline DataMiner\Files\SLSRMLibrary.dll</Param>
 			<Param type="ref">mscorlib.dll</Param>

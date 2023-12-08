@@ -49,7 +49,7 @@ DATE		VERSION		AUTHOR			COMMENTS
 ****************************************************************************
 */
 
-namespace TSK_AS_EditChannelAction_1
+namespace TSK_PA_EditChannelAction_1
 {
 	using System;
 	using System.Collections.Generic;

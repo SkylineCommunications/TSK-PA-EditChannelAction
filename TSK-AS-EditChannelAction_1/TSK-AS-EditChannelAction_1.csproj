@@ -20,9 +20,17 @@
 		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
 		<PackageReference Include="Skyline.DataMiner.Dev.Automation" Version="10.3.12.2" />
 	</ItemGroup>
+	<ItemGroup>
+	  <Reference Include="Newtonsoft.Json">
+	    <HintPath>..\..\..\..\..\..\Skyline DataMiner\Files\Newtonsoft.Json.dll</HintPath>
+	  </Reference>
+	  <Reference Include="ProcessAutomation">
+	    <HintPath>..\..\..\..\..\..\Skyline DataMiner\ProtocolScripts\ProcessAutomation.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
 	<ProjectExtensions>
 	    <VisualStudio>
-		    <UserProperties DisLinkedXmlFile="..\TSK-AS-EditChannelAction.xml" DisProjectType="automationScriptProject" DisLinkId="1" />
+		    <UserProperties DisLinkedXmlFile="..\TSK-PA-EditChannelAction.xml" DisProjectType="automationScriptProject" DisLinkId="1" />
         </VisualStudio>
 	</ProjectExtensions>
 </Project>

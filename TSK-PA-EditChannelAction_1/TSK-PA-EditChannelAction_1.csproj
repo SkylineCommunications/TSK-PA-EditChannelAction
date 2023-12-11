@@ -25,7 +25,7 @@
 	</ItemGroup>
 	<ItemGroup>
 	  <Reference Include="Newtonsoft.Json">
-	    <HintPath>..\..\..\..\..\..\Skyline DataMiner\Files\Newtonsoft.Json.dll</HintPath>
+	    <HintPath>..\Dlls\Newtonsoft.Json.dll</HintPath>
 	  </Reference>
 	  <Reference Include="ProcessAutomation">
 	    <HintPath>..\Dlls\ProcessAutomation.dll</HintPath>

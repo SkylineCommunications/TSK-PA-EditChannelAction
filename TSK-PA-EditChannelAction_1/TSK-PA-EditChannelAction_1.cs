@@ -102,6 +102,11 @@ namespace TSK_PA_EditChannelAction_1
 
         private List<Guid> ParseGuidList(string guids)
         {
+            if (guids == null)
+            {
+                throw new ArgumentNullException(nameof(guids));
+            }
+
             guids = guids.Replace("[", String.Empty);
             guids = guids.Replace("]", String.Empty);
             guids = guids.Replace("\"", String.Empty);

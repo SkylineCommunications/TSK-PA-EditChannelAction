@@ -25,16 +25,16 @@
 	</ItemGroup>
 	<ItemGroup>
 	  <Reference Include="Newtonsoft.Json">
-	    <HintPath>..\..\..\..\..\..\Skyline DataMiner\Files\Newtonsoft.Json.dll</HintPath>
+	    <HintPath>..\Dlls\Newtonsoft.Json.dll</HintPath>
 	  </Reference>
 	  <Reference Include="ProcessAutomation">
-	    <HintPath>..\..\..\..\..\..\Skyline DataMiner\ProtocolScripts\ProcessAutomation.dll</HintPath>
+	    <HintPath>..\Dlls\ProcessAutomation.dll</HintPath>
 	  </Reference>
 	  <Reference Include="SLCodeLibrary">
-	    <HintPath>..\..\..\..\..\..\Skyline DataMiner\Files\SLCodeLibrary.dll</HintPath>
+	    <HintPath>..\Dlls\SLCodeLibrary.dll</HintPath>
 	  </Reference>
 	  <Reference Include="SLSRMLibrary">
-	    <HintPath>..\..\..\..\..\..\Skyline DataMiner\Files\SLSRMLibrary.dll</HintPath>
+	    <HintPath>..\Dlls\SLSRMLibrary.dll</HintPath>
 	  </Reference>
 	</ItemGroup>
 	<ProjectExtensions>

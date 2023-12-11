@@ -109,7 +109,6 @@ C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction
 C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\bin\Debug\net462\ProcessAutomation.dll
 C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\bin\Debug\net462\SLCodeLibrary.dll
 C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\bin\Debug\net462\SLSRMLibrary.dll
-C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\bin\Debug\net462\ProcessAutomation.xml
 C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\obj\Debug\net462\TSK-PA-EditChannelAction_1.csproj.AssemblyReference.cache
 C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\obj\Debug\net462\TSK-PA-EditChannelAction_1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\JoshuaWO\source\repos\TSK-PA-EditChannelAction\TSK-PA-EditChannelAction_1\obj\Debug\net462\TSK-PA-EditChannelAction_1.AssemblyInfoInputs.cache

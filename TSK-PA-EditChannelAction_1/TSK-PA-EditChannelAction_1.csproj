@@ -25,17 +25,14 @@
 		<PackageReference Include="Skyline.DataMiner.Dev.Automation" Version="10.3.12.2" />
 	</ItemGroup>
 	<ItemGroup>
-	  <Reference Include="Newtonsoft.Json">
-	    <HintPath>..\Dlls\Newtonsoft.Json.dll</HintPath>
-	  </Reference>
 	  <Reference Include="ProcessAutomation">
-	    <HintPath>..\Dlls\ProcessAutomation.dll</HintPath>
+	    <HintPath>..\..\..\..\..\..\Skyline DataMiner\ProtocolScripts\ProcessAutomation.dll</HintPath>
 	  </Reference>
 	  <Reference Include="SLCodeLibrary">
-	    <HintPath>..\Dlls\SLCodeLibrary.dll</HintPath>
+	    <HintPath>..\..\..\..\..\..\Skyline DataMiner\Files\SLCodeLibrary.dll</HintPath>
 	  </Reference>
 	  <Reference Include="SLSRMLibrary">
-	    <HintPath>..\Dlls\SLSRMLibrary.dll</HintPath>
+	    <HintPath>..\..\..\..\..\..\Skyline DataMiner\Files\SLSRMLibrary.dll</HintPath>
 	  </Reference>
 	</ItemGroup>
 	<ProjectExtensions>
